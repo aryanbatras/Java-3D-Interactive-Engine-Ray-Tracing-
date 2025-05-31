@@ -1,9 +1,9 @@
-# 🌟 JavaReflect — 3D Interactive Ray Tracing Engine in Java
+# 🌟 JavaReflect — 3D Interactive Ray Tracing Engine
 
-![JavaReflect Banner](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered/mirror.jpg)
+![JavaReflect Banner](https://github.com/aryanbatras/JavaReflect-3D-Engine
+/blob/main/Rendered/mirror.jpg)
 
-> **JavaReflect** is a 3D interactive ray tracing engine built **entirely from scratch** in Java.  
-> It features realistic rendering, user interaction, procedural scenes, object dragging, and multithreaded performance — all in a single powerful, extensible codebase.
+> **JavaReflect** is a 3D interactive ray tracing engine built **entirely from scratch** in Java. It features realistic rendering, user interaction, procedural scenes, object dragging, and multithreaded performance — all in a single powerful, extensible codebase.
 
 ---
 
@@ -49,17 +49,18 @@ With **over 5,000 lines of handwritten code**, no third-party engines, and real-
 
 ## 🌐 Screenshots
 
+### 🎯 Highlight  
+![Selected](https://github.com/aryanbatras/JavaReflect-3D-Engine
+/blob/main/Rendered/THEFINALSETUP.jpg)
+
 ### 🌀 Mirror Reflections  
-![Mirror Scene](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered/REFLECTSCENE.jpg)
+![Mirror Scene](https://github.com/aryanbatras/JavaReflect-3D-Engine
+/blob/main/Rendered/REFLECTSCENE.jpg)
 
 ### ⚙️ Interactive Drag & Drop  
-![Dragging Objects](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered/drag.jpg)
+![Dragging Objects](https://github.com/aryanbatras/JavaReflect-3D-Engine
+/blob/main/Rendered/Screenshot%202025-05-30%20at%209.12.49%E2%80%AFAM.png)
 
-### 🎲 Procedural Sphere Forest  
-![Random Spheres](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered/random.jpg)
-
-### 🎯 Selection Highlight  
-![Selected](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered/selected.jpg)
 
 ---
 
@@ -79,6 +80,8 @@ javac -d out src/**/*.java
 
 # Run
 java -cp out
+
+```
 
 ---
 
