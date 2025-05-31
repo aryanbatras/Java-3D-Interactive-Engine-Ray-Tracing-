@@ -2,7 +2,6 @@
 
 ![JavaReflect Banner](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered%20Images/mirror.jpg)
 
-
 > **JavaReflect** is a 3D interactive ray tracing engine built **entirely from scratch** in Java.  
 > It features realistic rendering, user interaction, procedural scenes, object dragging, and multithreaded performance — all in a single powerful, extensible codebase.
 
@@ -50,5 +49,89 @@ With **over 5,000 lines of handwritten code**, no third-party engines, and real-
 
 ## 🌐 Screenshots
 
-### 🌀 Mirror Reflections
-![scene1](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered%20Images/REFLECTSCENE.jpg)
+### 🌀 Mirror Reflections  
+![Mirror Scene](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered%20Images/REFLECTSCENE.jpg)
+
+### ⚙️ Interactive Drag & Drop  
+![Dragging Objects](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered%20Images/drag.jpg)
+
+### 🎲 Procedural Sphere Forest  
+![Random Spheres](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered%20Images/random.jpg)
+
+### 🎯 Selection Highlight  
+![Selected](https://github.com/aryanbatras/Java-3D-Interactive-Engine-Ray-Tracing-/blob/main/Rendered%20Images/selected.jpg)
+
+---
+
+## 💻 Getting Started
+
+### 🛠️ Requirements
+
+- Java 17+ (developed on **OpenJDK 23**)
+- No external libraries required
+- Optional: IDE (e.g. IntelliJ IDEA, Eclipse)
+
+### ▶️ Run the Engine
+
+```bash
+# Compile
+javac -d out src/**/*.java
+
+# Run
+java -cp out Mainactive-Engine-Ray-Tracing-/blob/main/Rendered%20Images/REFLECTSCENE.jpg)
+
+---
+
+## 🛣️ Roadmap
+
+### Feature Status
+
+- ✅ Basic ray tracing (spheres, planes)	Done
+- ✅ Camera control with mouse + keyboard	Done
+- ✅ Interactive object dragging		Done
+- ✅ Material-based shading			Done
+- ✅ Scene procedural randomization		Done
+- ✅ Multithreaded rendering			Done
+- ⏳ BVH acceleration				Upcoming
+- ⏳ glTF 3D model support			Upcoming
+- ⏳ Soft shadows & GI				Planned
+- ⏳ Texture mapping				Planned
+- ⏳ GUI-based scene editor			Planned
+- ⏳ Real-time animation support		Planned
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from developers, passionate about graphics, Java, or real-time engines.
+
+### 🧾 How to Contribute
+- Fork the repository
+- Create a new branch: git checkout -b feature/my-feature
+- Make your changes
+- Commit and push: git commit -m "Added my feature" then git push origin
+
+### Open a Pull Request 🚀
+- 📌 Areas You Can Help
+- 🔁 Refactor for cleaner OOP
+- 🔼 Add new shape types or lighting models
+- 🚀 Improve rendering performance (BVH, KD-Tree, SIMD)
+- 🎨 Build a JavaFX UI wrapper
+- 📦 Export/import scenes
+- 📝 Write tutorials or docs
+- 📚 New? Start from Window.java
+
+## 📜 License
+
+MIT License — use freely, modify, contribute, and credit.
+
+## ✍️ Author
+
+Developed by Aryan Batra
+Contact: batraaryan03@gmail.com
+Feel free to reach out for collaboration, internships, or tech discussions!
+
+## ⭐ Star & Share
+
+If you found JavaReflect useful or inspiring, consider starring ⭐ the project and sharing it!
+Let’s grow this into the best open-source ray tracer written in Java!
